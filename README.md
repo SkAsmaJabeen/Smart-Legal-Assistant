@@ -1,2 +1,1 @@
-# lawbot
-AI-powered legal assistant built with Streamlit
+LawBot, a legal assistant chatbot using Streamlit and Python that allows users to ask legal questions and receive responses through an interactive chat interface. Supports multiple chat sessions with chat history, enables renaming and deleting chats, and provides an option to export conversations as text
